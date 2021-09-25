@@ -36,6 +36,9 @@ The following table shows the predicted price compared to the real one
 </p>
 
 ![predictions](https://github.com/Raneem-Khafagy/Linear-Regression-for-Price-Estimation/blob/main/multiVarLinearRegression/screenshots/predictions.jpg?raw=true)
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 59e2e61dc1252789bf25733383367f5536fa0204
