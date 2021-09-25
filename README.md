@@ -30,13 +30,12 @@ The following table shows the predicted price compared to the real one
 </p>
 
 ![loss function](https://github.com/Raneem-Khafagy/Linear-Regression-for-Price-Estimation/blob/main/multiVarLinearRegression/screenshots/loss_function_plot.jpg?raw=true)
-<p align="center">
+
+<p align="center"></p>
 The following table shows the predicted price compared to the real one
 </p>
 
 ![predictions](https://github.com/Raneem-Khafagy/Linear-Regression-for-Price-Estimation/blob/main/multiVarLinearRegression/screenshots/predictions.jpg?raw=true)
-
-
 
 
 
