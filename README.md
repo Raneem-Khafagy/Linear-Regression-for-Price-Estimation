@@ -15,13 +15,13 @@ by iteratively moving in the direction of steepest descent as defined by the neg
 ## One variable linear regression model
 <p align="center">
  The following graph shows the decay of loss function aginist the number of iterations 
-<img src="oneVarLinearRegression\screenshots\loss_function_plot.jpg" width="70%" title="Loss Graph">
+<img src="oneVarLinearRegression\screenshots\loss_function_plot.jpg" width="50%" title="Loss Graph">
 </p>
 
 
 <p align="center">
 The following table shows the predicted price compared to the real one
-<img src="oneVarLinearRegression\screenshots\predictions.jpg" width="55%" title="predictions">
+<img src="oneVarLinearRegression\screenshots\predictions.jpg" width="40%" title="predictions">
 </p>
 
 
@@ -29,10 +29,10 @@ The following table shows the predicted price compared to the real one
 
 <p align="center">
  The following graph shows the decay of loss function aginist the number of iterations 
- <img src="multiVarLinearRegression\screenshots\loss_function_plot.jpg" width="70%" title="Loss Graph">
+ <img src="multiVarLinearRegression\screenshots\loss_function_plot.jpg" width="50%" title="Loss Graph">
 </p>
 
 <p align="center">
 The following table shows the predicted price compared to the real one
-<img src="multiVarLinearRegression\screenshots\predictions.jpg" width="70%" title="predictions">
+<img src="multiVarLinearRegression\screenshots\predictions.jpg" width="50%" title="predictions">
 </p>
