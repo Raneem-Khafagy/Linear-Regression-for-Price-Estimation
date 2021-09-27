@@ -13,26 +13,34 @@ to measure how much the average model predictions vary from the correct values.
 I used **Gradient Descent** an optimization algorithm, to update the parameters of our model
 by iteratively moving in the direction of steepest descent as defined by the negative of the gradient.
 ## One variable linear regression model
-<p align="center">
- The following graph shows the decay of loss function aginist the number of iterations 
-<img src="oneVarLinearRegression\screenshots\loss_function_plot.jpg" width="50%" title="Loss Graph">
-</p>
+<div align="center">
+    <p>
+    The following graph shows the decay of loss function aginist the number of iterations 
+    </p>
+    <img src="oneVarLinearRegression\screenshots\loss_function_plot.jpg" width="50%" title="Loss Graph">
+</div>
 
 
-<p align="center">
-The following table shows the predicted price compared to the real one
-<img src="oneVarLinearRegression\screenshots\predictions.jpg" width="40%" title="predictions">
-</p>
+<div align="center">
+    <p>
+    The following table shows the predicted price compared to the real one
+    </p>
+    <img src="oneVarLinearRegression\screenshots\predictions.jpg" width="40%" title="predictions">
+</div>
 
 
 ## Multi variable linear regression model
 
-<p align="center">
- The following graph shows the decay of loss function aginist the number of iterations 
- <img src="multiVarLinearRegression\screenshots\loss_function_plot.jpg" width="50%" title="Loss Graph">
-</p>
+<div align="center">
+    <p>
+    The following graph shows the decay of loss function aginist the number of iterations 
+    </p>
+    <img src="multiVarLinearRegression\screenshots\loss_function_plot.jpg" width="50%" title="Loss Graph">
+</div>
 
-<p align="center">
-The following table shows the predicted price compared to the real one
-<img src="multiVarLinearRegression\screenshots\predictions.jpg" width="50%" title="predictions">
-</p>
+<div align="center">
+    <p>
+    The following table shows the predicted price compared to the real one
+    </p>
+    <img src="multiVarLinearRegression\screenshots\predictions.jpg" width="50%" title="predictions">
+</div>
