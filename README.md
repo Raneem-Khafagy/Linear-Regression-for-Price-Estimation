@@ -15,24 +15,24 @@ by iteratively moving in the direction of steepest descent as defined by the neg
 ## One variable linear regression model
 <p align="center">
  The following graph shows the decay of loss function aginist the number of iterations 
+<img src="oneVarLinearRegression\screenshots\loss_function_plot.jpg" width="70%" title="Loss Graph">
 </p>
 
-![loss function](https://github.com/Raneem-Khafagy/Linear-Regression-for-Price-Estimation/blob/main/oneVarLinearRegression/screenshots/loss_function_plot.jpg?raw=true)
+
 <p align="center">
 The following table shows the predicted price compared to the real one
+<img src="oneVarLinearRegression\screenshots\predictions.jpg" width="55%" title="predictions">
 </p>
 
-![predictions](https://github.com/Raneem-Khafagy/Linear-Regression-for-Price-Estimation/blob/main/oneVarLinearRegression/screenshots/predictions.jpg?raw=true)
 
 ## Multi variable linear regression model
+
 <p align="center">
  The following graph shows the decay of loss function aginist the number of iterations 
+ <img src="multiVarLinearRegression\screenshots\loss_function_plot.jpg" width="70%" title="Loss Graph">
 </p>
 
-![loss function](https://github.com/Raneem-Khafagy/Linear-Regression-for-Price-Estimation/blob/main/multiVarLinearRegression/screenshots/loss_function_plot.jpg?raw=true)
-
-<p align="center"></p>
+<p align="center">
 The following table shows the predicted price compared to the real one
+<img src="multiVarLinearRegression\screenshots\predictions.jpg" width="70%" title="predictions">
 </p>
-
-![predictions](https://github.com/Raneem-Khafagy/Linear-Regression-for-Price-Estimation/blob/main/multiVarLinearRegression/screenshots/predictions.jpg?raw=true)
